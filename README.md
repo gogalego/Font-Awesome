@@ -13,5 +13,5 @@ i.fa.fa-linkedin {
 }
 ```
 
-The best way is just use just one version of Font Awesome  XD
+The best way is just use just one version of Font Awesome !!
  
